@@ -1,0 +1,16 @@
+class.title {
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Quicksand', sans-serif;
+    font-size: xx-large;
+}
+
+body {
+    background-color: #256D85;
+}
+
+.logo {
+    display: block;
+    margin-left: 10px;
+    margin-top: 15px;
+}
